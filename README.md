@@ -41,6 +41,7 @@
 <h3 align="justify">Contact Me : </h3>
 <p align="justify">
   &emsp;
-<a href="https://linkedin.com/in/virenjoshi403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virenjoshi403" height="40" width="40" /></a> 
-<a href="https://www.codechef.com/users/virenjoshi" target="blank">&ensp;<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="virenjoshi" height="40" width="40" /></a>
+<a href="https:github.com/viren-joshi" target="_blank"><img src='https://img.icons8.com/plasticine/2x/github.png' alt='github' height='60'></a>  
+<a href="https://www.linkedin.com/in/virenjoshi403" target="_blank"><img src='https://img.icons8.com/clouds/2x/linkedin.png' alt='linkedin' height='60'></a>
+
 </p>
