@@ -6,11 +6,11 @@
 <b> Flutter Developer | Cyber Security Enthusiast </b>
 
 <h4>Currently Working On : </h4>
-  <b>&emsp;- A Flutter Project from College</b>
+  <b>&emsp;- A Flutter Project for College</b>
  </br>
-  <b>&emsp;- Cyber Security Practice</b>
+  <b>&emsp;- Cyber Security </b>
  </br>
-  <b>&emsp;- React Native</b>
+  <b>&emsp;- Learning React Native </b>
 </p>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viren-joshi" alt="viren-joshi" /></a> </p> -->
 
