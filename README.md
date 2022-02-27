@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Viren</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">he / him</h3>
+<h5 align="center">Flutter Developer | Cyber Security Enthusiast</h5>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=viren-joshi&label=Profile%20views&color=0e75b6&style=flat" alt="viren-joshi" /> </p>
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viren-joshi" alt="viren-joshi" /></a> </p> -->
 
-
-
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools : </h3>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <h4>App Development</h4>
 <p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
   <br>
@@ -32,4 +31,3 @@
 <a href="https://linkedin.com/in/virenjoshi403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="virenjoshi403" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/virenjoshi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tracymartel" height="30" width="40" /></a>
 </p>
-
