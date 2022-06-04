@@ -1,4 +1,4 @@
-<h1 align="left">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Viren </h1>
+<h1 align="left">Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" />, I'm Viren </h1>
 <!-- <p align="justify"> <img src="https://komarev.com/ghpvc/?username=viren-joshi&label=Profile%20views&color=0e75b6&style=flat" alt="viren-joshi" /> </p> -->
 <p>
   <i>I go by he / him pronouns.</i>
