@@ -3,14 +3,14 @@
 <p>
   <i>I go by he / him pronouns.</i>
   </br>
-<b> Flutter Developer | Cyber Security Enthusiast </b>
+<b> Full Stack Flutter Developer | Cyber Security Enthusiast </b>
 
 <h4>Currently Working On : </h4>
-  <b>&emsp;- A Flutter Project for College</b>
+  <b>&emsp;- Flutter Projects </b>
  </br>
   <b>&emsp;- Cyber Security </b>
  </br>
-  <b>&emsp;- Learning React Native </b>
+  <b>&emsp;- Developing a Crowdsourcing model for Question Bank & Question Paper generation </b>
 </p>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viren-joshi" alt="viren-joshi" /></a> </p> -->
 
