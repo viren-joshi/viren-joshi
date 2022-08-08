@@ -42,6 +42,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viren-joshi&&count_private=true&theme=radical" alt="viren-joshi" /></p>
 
 <h3 align="justify">Contact Me : </h3>
+
 <p align="justify">
   &emsp;
 <a href="https://github.com/viren-joshi" target="_blank"><img src='https://img.icons8.com/plasticine/2x/github.png' alt='github' height='60'></a>  
