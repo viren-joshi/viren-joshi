@@ -36,8 +36,7 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/null/mysql-logo.png" width="50" height="50"/> </a> </p>
   <h4 align="left">&emsp;Designing - </h4>
     <p align="left">&emsp;&emsp;<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=viren-joshi&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical" alt="viren-joshi" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=viren-joshi&show_icons=true&locale=en&count_private=true&theme=radical" alt="viren-joshi" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viren-joshi&&count_private=true&theme=radical" alt="viren-joshi" /></p>
 
