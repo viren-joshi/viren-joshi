@@ -10,7 +10,7 @@
  </br>
   <b>&emsp;- Cyber Security </b>
  </br>
-  <b>&emsp;- Developing a Crowdsourcing model for Question Bank & Question Paper generation </b>
+<!--   <b>&emsp;- Developing a Crowdsourcing model for Question Bank & Question Paper generation </b> -->
 </p>
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viren-joshi" alt="viren-joshi" /></a> </p> -->
 
