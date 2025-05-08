@@ -47,4 +47,5 @@
   &emsp;
 <a href="https://github.com/viren-joshi" target="_blank"><img src='https://img.icons8.com/plasticine/2x/github.png' alt='github' height='60'></a>  
 <a href="https://www.linkedin.com/in/virenjoshi403" target="_blank"><img src='https://img.icons8.com/clouds/2x/linkedin.png' alt='linkedin' height='60'></a>
+<a href="https://viren-joshi.github.io/"><img src="https://img.icons8.com/color/96/domain--v1.png" alt="website-portfolio" height=60></a>
 </p>
