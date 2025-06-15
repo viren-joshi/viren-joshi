@@ -1,51 +1,65 @@
-<h1 align="left">Hey, I'm Viren </h1>
-<!-- <p align="justify"> <img src="https://komarev.com/ghpvc/?username=viren-joshi&label=Profile%20views&color=0e75b6&style=flat" alt="viren-joshi" /> </p> -->
+<h1 align="left">Hey, I'm Viren 👋</h1>
+
 <p>
-  <i>I go by he / him pronouns.</i>
-  </br>
-<b> Full Stack Flutter Developer | Cyber Security Enthusiast </b>
-
-<h4>Currently Working On </h4>
-  <b>&emsp;- Flutter Projects </b>
- </br>
-  <b>&emsp;- Cyber Security </b>
- </br>
-<!--   <b>&emsp;- Developing a Crowdsourcing model for Question Bank & Question Paper generation </b> -->
+  <i>He / Him • Looking to build full-stack, intelligent, and secure software systems.</i><br>
+  <b> Software Engineer </b>
 </p>
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viren-joshi" alt="viren-joshi" /></a> </p> -->
 
-<h3 align="left">Languages and Tools </h3>
-<h4>&emsp;Programming Languages </h4>
-<p align="justify">
-  &ensp; <img src="https://user-images.githubusercontent.com/73399290/213872455-3de6cacf-510a-4d89-be26-1dcf69e6fe52.png" alt="cplusplus" title="C++ Programming Language" width="50" height="50"/>
-  &ensp; <img src="https://user-images.githubusercontent.com/73399290/213872573-7bf15800-f575-4d48-9626-57b85b1588ec.svg" alt="python" title="Python Programming Language" width="50" height="50"/>
-  &ensp; <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="Dart Programming Language" width="50" height="50"/>
-  &ensp; <img src="https://img.icons8.com/officel/80/null/php-logo.png" alt="php" title="PHP Programming Lanugage" width="50" height="50"/>
+<h4>Highlights</h4>
+<ul>
+  <li><b>ResuMate</b>: AI-powered resume & job matcher using LLMs, AWS Lambda, and RAG pipelines</li>
+  <li><b>SafetyNet</b>: Real-time PPE compliance system with YOLOv8 & full-stack dashboard (React + Flask)</li>
+  <li><b>Soft-Viz</b>: Software architecture visualizer using Spring Boot and React</li>
+  <li><b>MomentReely</b>: Kotlin-based photo sharing app with AWS backend and Firebase auth</li>
+  <li><b>MalwareMinder</b>: On-device malware classifier built with MobSF & ML</li>
+</ul>
+
+<h3>Languages & Tools</h3>
+
+<h4>&emsp;Programming</h4>
+<p>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" title="Dart"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
 </p>
-<h4 align="left">&emsp;App Development </h4>
-<p align="left">
-  &ensp; <img src="https://img.icons8.com/clouds/100/null/android.png" alt="android" title="Android OS & Development Framework" width="60" height="60"/>
-  &ensp; <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" title="Flutter Framework" width="50" height="50"/>
+
+<h4>&emsp;Web & App Development</h4>
+<p>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" title="Flask"/>
 </p>
-<h4 align="left">&emsp;Web Development </h4>
-  <p align = "left">
-    &ensp; <img src="https://img.icons8.com/dusk/64/null/css3.png" alt="css" title="CSS" width="50" height="50">
-    &ensp; <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-html-5-mobile-app-development-flaticons-lineal-color-flat-icons.png" alt="html" title="HTML5" width="50" height="50"/>
-  </p>
-<h4 align="left">&emsp;Database, Cloud & More </h4>
-  <p align="left">
-    &ensp; <img src="https://github.com/viren-joshi/viren-joshi/assets/73399290/46d97ec0-05dc-4d0e-b412-62b61202b337" alt="Firebase" title="Firebase IaaS" height ="50">
-    &ensp; <img src="https://img.icons8.com/fluency/48/null/mysql-logo.png" alt="SQL" title="MySQL" width="50" height="50"/>
-  </p>
 
+<h4>&emsp;Cloud & DevOps</h4>
+<p>
+  &ensp;<img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" title="AWS"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" title="GCP"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" title="Kubernetes"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" title="Terraform"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viren-joshi&&count_private=true&theme=radical" alt="viren-joshi" /></p>
+<h4>&emsp;Data & AI</h4>
+<p>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" title="PyTorch"/>
+</p>
 
-<h3 align="justify">Contact Me : </h3>
+<h4>&emsp;Databases & Platform Tools</h4>
+<p>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  &ensp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
+</p>
 
-<p align="justify">
-  &emsp;
-<a href="https://github.com/viren-joshi" target="_blank"><img src='https://img.icons8.com/plasticine/2x/github.png' alt='github' height='60'></a>  
-<a href="https://www.linkedin.com/in/virenjoshi403" target="_blank"><img src='https://img.icons8.com/clouds/2x/linkedin.png' alt='linkedin' height='60'></a>
-<a href="https://viren-joshi.github.io/"><img src="https://img.icons8.com/color/96/domain--v1.png" alt="website-portfolio" height=60></a>
+<h3>Connect With Me</h3>
+<p>
+  <a href="https://github.com/viren-joshi"><img src="https://img.icons8.com/plasticine/2x/github.png" height="50"/></a>
+  <a href="https://www.linkedin.com/in/virenjoshi403"><img src="https://img.icons8.com/clouds/2x/linkedin.png" height="50"/></a>
+  <a href="https://viren-joshi.github.io/"><img src="https://img.icons8.com/color/96/domain--v1.png" height="50"/></a>
 </p>
