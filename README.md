@@ -59,7 +59,7 @@
 
 <h3>Connect With Me</h3>
 <p>
-  <a href="https://github.com/viren-joshi"><img src="https://img.icons8.com/plasticine/2x/github.png" height="50"/></a>
-  <a href="https://www.linkedin.com/in/virenjoshi403"><img src="https://img.icons8.com/clouds/2x/linkedin.png" height="50"/></a>
-  <a href="https://viren-joshi.github.io/"><img src="https://img.icons8.com/color/96/domain--v1.png" height="50"/></a>
+  <a href="https://github.com/viren-joshi"><img src="https://img.icons8.com/plasticine/2x/github.png" height="50" width="50"/></a>
+  <a href="https://www.linkedin.com/in/virenjoshi403"><img src="https://img.icons8.com/clouds/2x/linkedin.png" height="50" width="50"/></a>
+  <a href="https://viren-joshi.github.io/"><img src="https://img.icons8.com/color/96/domain--v1.png" height="50" width="50"/></a>
 </p>
