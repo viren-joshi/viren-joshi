@@ -1,17 +1,17 @@
 <h1 align="left">Hey, I'm Viren 👋</h1>
 
 <p>
-  <i>He / Him • Looking to build full-stack, intelligent, and secure software systems.</i><br>
-  <b> Software Engineer </b>
+  <i>He / Him • Looking to build full-stack, resillient, and secure software systems.</i><br>
 </p>
 
 <h4>Highlights</h4>
 <ul>
-  <li><b>ResuMate</b>: AI-powered resume & job matcher using LLMs, AWS Lambda, and RAG pipelines</li>
-  <li><b>SafetyNet</b>: Real-time PPE compliance system with YOLOv8 & full-stack dashboard (React + Flask)</li>
-  <li><b>Soft-Viz</b>: Software architecture visualizer using Spring Boot and React</li>
-  <li><b>MomentReely</b>: Kotlin-based photo sharing app with AWS backend and Firebase auth</li>
-  <li><b>MalwareMinder</b>: On-device malware classifier built with MobSF & ML</li>
+  <li><b>ResuMate</b>: GenAI-powered resume & cover letter generator with RAG pipelines, pgvector (PostgreSQL), and SageMaker-hosted LLMs</li>
+  <li><b>DocuFlow</b>: Serverless document approval system using AWS Step Functions, Lambda, and S3, with dynamic approval workflows</li>
+  <li><b>SafetyNet</b>: Real-time PPE compliance monitoring with YOLOv8, Flask API, and React dashboard</li>
+  <li><b>Soft-Viz</b>: Interactive software architecture visualizer built with Spring Boot and React</li>
+  <li><b>MomentReely</b>: Kotlin-based photo sharing app with AWS backend and Firebase authentication</li>
+  <li><b>Neighbourhood Crime Insights</b>: Crime analytics dashboard using Python, clustering, and census data for socio-economic pattern detection</li>
 </ul>
 
 <h3>Languages & Tools</h3>
